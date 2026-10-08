@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<h1><centre><img src="rmc-profile.jpg" height="200px" width="200x" alt="Description of the image"><br>Prof. RM. CHANDRASEKARAN</centre></h1>
+<h1><centre><img src="https://github.com/candy-gi-t/candy090121.github.io/blob/main/rmc-profile.jpg" height="200px" width="200x" alt="Description of the image"><br>Prof. RM. CHANDRASEKARAN</centre></h1>
 <h2>1. General information:</h2>
 <table>
 <tr>
