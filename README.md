@@ -1092,5 +1092,28 @@ IFS), Vizag • Rajyoga Brahama Kumaris Viswa Shanthi Bhawan (RAJYO), Mount Abu 
   <li><a href="https://scholar.google.co.in/citations?user=Oap3Yg4AAAAJ">Scholar </a></li>
   <li><a href="https://orcid.org/0000-0002-4665-7847">ORCiD </a></li>
 </ul>
+<h2>13. Social Media Presence:</h2>
+ <ul>
+   <li>https://www.linkedin.com/in/chandrasekaran-ramasamy-4a212232/</li>
+ </ul>  
+<h2>14. Git hub Repositories </h2>
+<ul>
+   <li>https://github.com/candy-gi-t</li>
+   <li>https://github.com/Yazh24/attendance-bio</li>
+   <li>https://github.com/Yazh24/devops</li>
+ </ul>  
+<h2>15. Blogs</h2>
+<ul>
+   <li>ametodl.blogspot.com</li>
+   <li>https://github.com/Yazh24/attendance-bio</li>
+   <li>https://github.com/Yazh24/devops</li>
+   <li>https://ametodl.blogspot.com/p/rmc-free-web-sites.html</li>
+   <li>https://ametodl.blogspot.com/2025/03/work-done-since-25032025.html</li>
+   <li>https://ametodl.blogspot.com/2025/03/work-done-since-25032025.html</li>
+   <li>https://ametodl.blogspot.com/2026/01/work-diary-2026.html</li>
+ </ul>  
+
+   
+
 </body>
 </html>
