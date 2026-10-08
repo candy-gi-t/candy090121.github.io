@@ -1025,7 +1025,7 @@ IFS), Vizag • Rajyoga Brahama Kumaris Viswa Shanthi Bhawan (RAJYO), Mount Abu 
       <td>14</td>
       <td>Mrs. Kavitha </td>
       <td>Data Mining Approaches for various Diseases</td>
-      <td>2015 - Mother Therasa University, Kodaikanal) </td>
+      <td>2015 - Mother Therasa University</td>
     </tr>
     <tr>
       <td>15</td>
