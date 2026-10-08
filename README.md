@@ -954,127 +954,127 @@ IFS), Vizag • Rajyoga Brahama Kumaris Viswa Shanthi Bhawan (RAJYO), Mount Abu 
       <td>1</td>
       <td>Dr. M. Govindarajan</td>
       <td>Classifier Based Text Mining Approaches for Data Mining Applications.</td>
-      <td>2010</td>
+      <td>2010 - Annamalai University</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Dr. S. Audithan</td>
       <td>Document Image Segmentation based on Discrete Wavelet Transform and Haralick Statistical Features.</td>
-      <td>2011</td>
+      <td>2011 - Annamalai University</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Dr. S. Vijaybhanu</td>
       <td>Performance of VoIP over IEEE 802.11 WLAN: Analysis and Enhancement.</td>
-      <td>2012</td>
+      <td>2012 - Anna University</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Dr. TK. Thivakaran</td>
       <td>Machine Vision Based Surface Roughness Analysis Using Wavelet Transforms With Neural Network Approach.</td>
-      <td>2013</td>
+      <td>2013 - Manonmanium Sundaranar </td>
     </tr>
     <tr>
       <td>5</td>
       <td>Dr. A. Valarmathi</td>
       <td>A congestion-aware multi-path dynamic source routing protocol with QOS for mobile ad hoc network.</td>
-      <td>2013</td>
+      <td>2013 - Anna University</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Dr. V.R. Sarma Dhulipala</td>
       <td>Selective conceptual approaches in frameworks and Algorithms for fault tolerance and trustworthiness for reliable communication in wireless sensor networks.</td>
-      <td>2013</td>
+      <td>2013 - Anna University</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Dr. V. Kalaichelvi</td>
       <td>Secured Electronic Voting Systems” proposes conceptual frameworks and algorithms.</td>
-      <td>2014</td>
+      <td>2014 - Anna University </td>
     </tr>
     <tr>
       <td>8</td>
       <td>Dr. A. Boomarani @Malany</td>
       <td>Quality of Service based Mobile Ad Hoc Network Framework for Reliable Communication.</td>
-      <td>2015</td>
+      <td>2015 - Anna University </td>
     </tr>
     <tr>
       <td>9</td>
       <td>Dr. T. Sakthivel</td>
       <td>Node Misbehavior Analysis, Detection and mitigation techniques on ADHOC Wireless Networks.</td>
-      <td>2015</td>
+      <td>2015 - Manonmanium Sundaranar</td>
     </tr>
     <tr>
       <td>10</td>
       <td>Dr. A. Shanthini</td>
       <td>A Study on Software Testing metrics for Fault prediction using Machine Learning.</td>
-      <td>2015</td>
+      <td>2015  - Annamalai University</td>
     </tr>
     <tr>
       <td>11</td>
       <td>Mrs. N. Suguna</td>
       <td>A study on Program Slicing Techniques for Testing and Fault Localization (20.9.2014)</td>
-      <td>2015</td>
+      <td>2015 - Annamalai University</td>
     </tr>
     <tr>
       <td>12</td>
       <td>Mr. S. Saravanan</td>
       <td>Simple Secured and Adaptive (SSA) Approaches for Network Intruder Detection over MANET. (March,2015)</td>
-      <td>2015</td>
+      <td>2015 - Annamalai University</td>
     </tr>
     <tr>
       <td>13</td>
       <td>Mrs. N. Ponnammal</td>
       <td>Data Mining Techniques for Cancer Detection</td>
-      <td>2015</td>
+      <td>2015 - Annamalai University</td>
     </tr>
     <tr>
       <td>14</td>
-      <td>Mrs. Kavitha (Mother Therasa University, Kodaikanal)</td>
+      <td>Mrs. Kavitha </td>
       <td>Data Mining Approaches for various Diseases</td>
-      <td>2015</td>
+      <td>2015 - Mother Therasa University, Kodaikanal) </td>
     </tr>
     <tr>
       <td>15</td>
       <td>Mrs. G. Vinothini</td>
       <td>Performance Evaluation of Machine Learning Classifiers in Sentiment Mining</td>
-      <td>2015</td>
+      <td>2015 - Annamalai University</td>
     </tr>
     <tr>
       <td>16</td>
       <td>Mr. P. Anbalagan</td>
       <td>GIS Related Mining for Land Sliding Prediction</td>
-      <td>2016</td>
+      <td>2016 - Annamalai University</td>
     </tr>
     <tr>
       <td>17</td>
       <td>Mrs. P. Dhanalakshmi</td>
       <td>Optimized Shortest Path Routing Using Soft Computing Techniques</td>
-      <td>2016</td>
+      <td>2016 - JNTU, Hyderabad</td>
     </tr>
     <tr>
       <td>18</td>
       <td>Mr. R. Suban</td>
       <td>Intelligent Framework for Customer Retention of MCDR using DM Approaches</td>
-      <td>2016</td>
+      <td>2016 - Annamalai University</td>
     </tr>
     <tr>
       <td>19</td>
       <td>Mrs. Sri Deivanai Nagarajan</td>
       <td>Study on Data Mining Approaches for Health Care Systems : Gestational Diabetes</td>
-      <td>2017</td>
+      <td>2017 - Annamalai University</td>
     </tr>
     <tr>
       <td>20</td>
       <td>Mr. Udyakumar Pandian</td>
       <td>Studies on data preprocessing for DACC Aspects</td>
-      <td>2017</td>
+      <td>2017 - Annamalai University</td>
     </tr>
     <tr>
       <td>21</td>
       <td>Mrs. S. Artheeswari</td>
       <td>A Data Mining Approach in Cloud For Secure, Scalable and Efficient Retrieval of Data</td>
-      <td>2018</td>
+      <td>2018 - Annamalai University</td>
     </tr>
   </tbody>
 </table>
