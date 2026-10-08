@@ -142,7 +142,7 @@
       <td>14520-10309</td>
       <td>ANNAMALAI</td>
       <td>Teaching, Guiding Students for Projects</td>
-      <td>7 Years & 3 Months</td>
+      <td>8 Years </td>
     </tr>
   </tbody>
 </table>
