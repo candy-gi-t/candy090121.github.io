@@ -189,19 +189,12 @@
       <td>1 year & 3 months</td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>Chairman, BOS</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td>6</td>
       <td>Others (specify)</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
+      <td>Innovation Director</td>
+      <td> April, 2013 - December, 2013</td>
+      <td>9 months</td>
+    </tr> 
   </tbody>
 </table>
 
