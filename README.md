@@ -1104,16 +1104,12 @@ IFS), Vizag • Rajyoga Brahama Kumaris Viswa Shanthi Bhawan (RAJYO), Mount Abu 
  </ul>  
 <h2>15. Blogs</h2>
 <ul>
-   <li>ametodl.blogspot.com</li>
-   <li>https://github.com/Yazh24/attendance-bio</li>
-   <li>https://github.com/Yazh24/devops</li>
-   <li>https://ametodl.blogspot.com/p/rmc-free-web-sites.html</li>
-   <li>https://ametodl.blogspot.com/2025/03/work-done-since-25032025.html</li>
-   <li>https://ametodl.blogspot.com/2025/03/work-done-since-25032025.html</li>
-   <li>https://ametodl.blogspot.com/2026/01/work-diary-2026.html</li>
+  <li><a href="https://ametodl.blogspot.com/">ametodl.blogspot.com</a></li>
+  <li><a href="https://github.com/Yazh24/attendance-bio">Attendance Bio</a></li>
+  <li><a href="https://github.com/Yazh24/devops">DevOps</a></li>
+  <li><a href="https://ametodl.blogspot.com/p/rmc-free-web-sites.html">RMC Free Websites</a></li>
+  <li><a href="https://ametodl.blogspot.com/2025/03/work-done-since-25032025.html">Work Done Since 25-03-2025</a></li>
+  <li><a href="https://ametodl.blogspot.com/2026/01/work-diary-2026.html">Work Diary 2026</a></li>
  </ul>  
-
-   
-
 </body>
 </html>
