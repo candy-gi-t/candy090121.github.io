@@ -1038,7 +1038,7 @@ IFS), Vizag • Rajyoga Brahama Kumaris Viswa Shanthi Bhawan (RAJYO), Mount Abu 
       <td>15</td>
       <td>Mrs. G. Vinothini</td>
       <td>Performance Evaluation of Machine Learning Classifiers in Sentiment Mining</td>
-      <td>2015 - Annamalai University</td>
+      <td>2015 - Manonmanium Sundaranar</td>
     </tr>
     <tr>
       <td>16</td>
